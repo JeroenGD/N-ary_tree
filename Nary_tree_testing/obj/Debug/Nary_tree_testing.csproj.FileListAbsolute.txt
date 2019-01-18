@@ -1,0 +1,17 @@
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\obj\Debug\Nary_tree_testing.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\obj\Debug\Nary_tree_testing.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\nunit.engine.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\nunit.engine.api.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\Nary_tree_testing.exe.config
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\Nary_tree_testing.exe
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\Nary_tree_testing.pdb
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\Nary_tree_lib.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\nunit.framework.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\Nary_tree_lib.pdb
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\nunit.framework.pdb
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\bin\Debug\nunit.framework.xml
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\obj\Debug\Nary_tree_testing.csproj.CopyComplete
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\obj\Debug\Nary_tree_testing.exe
+C:\Users\David\Desktop\Nary_tree\Nary_tree_testing\obj\Debug\Nary_tree_testing.pdb
