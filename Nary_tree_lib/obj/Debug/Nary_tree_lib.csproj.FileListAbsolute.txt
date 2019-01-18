@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\Nary_tree\Nary_tree_lib\bin\Debug\Nary_tree_lib.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_lib\bin\Debug\Nary_tree_lib.pdb
+C:\Users\David\Desktop\Nary_tree\Nary_tree_lib\obj\Debug\Nary_tree_lib.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\Nary_tree\Nary_tree_lib\obj\Debug\Nary_tree_lib.dll
+C:\Users\David\Desktop\Nary_tree\Nary_tree_lib\obj\Debug\Nary_tree_lib.pdb
+C:\Users\David\Desktop\Nary_tree\Nary_tree_lib\obj\Debug\Nary_tree_lib.csprojAssemblyReference.cache
